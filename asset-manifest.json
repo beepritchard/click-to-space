@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/click-to-space/static/css/main.4e3e8aab.chunk.css",
+    "main.js": "/click-to-space/static/js/main.d56f9273.chunk.js",
+    "main.js.map": "/click-to-space/static/js/main.d56f9273.chunk.js.map",
+    "runtime-main.js": "/click-to-space/static/js/runtime-main.70ecbe62.js",
+    "runtime-main.js.map": "/click-to-space/static/js/runtime-main.70ecbe62.js.map",
+    "static/js/2.050e7710.chunk.js": "/click-to-space/static/js/2.050e7710.chunk.js",
+    "static/js/2.050e7710.chunk.js.map": "/click-to-space/static/js/2.050e7710.chunk.js.map",
+    "index.html": "/click-to-space/index.html",
+    "precache-manifest.dc95049f4c403f4365b78bf91422e508.js": "/click-to-space/precache-manifest.dc95049f4c403f4365b78bf91422e508.js",
+    "service-worker.js": "/click-to-space/service-worker.js",
+    "static/css/main.4e3e8aab.chunk.css.map": "/click-to-space/static/css/main.4e3e8aab.chunk.css.map",
+    "static/js/2.050e7710.chunk.js.LICENSE.txt": "/click-to-space/static/js/2.050e7710.chunk.js.LICENSE.txt",
+    "static/media/aircraft.jpg": "/click-to-space/static/media/aircraft.b9f6e3a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70ecbe62.js",
+    "static/js/2.050e7710.chunk.js",
+    "static/css/main.4e3e8aab.chunk.css",
+    "static/js/main.d56f9273.chunk.js"
+  ]
+}
